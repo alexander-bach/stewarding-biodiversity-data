@@ -41,6 +41,7 @@ Install dependencies in R:
 
 ```r
 install.packages(c("here", "dplyr", "ggplot2", "patchwork", "scales"))
+```
 
 ## Start
 
