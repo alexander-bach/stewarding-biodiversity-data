@@ -14,11 +14,6 @@ Running the script will recreate the exported publication-ready graphic.
 
 ## Repository contents
 
-├── atlas_citations.csv
-├── gbif_aramob_citations.csv
-├── citation_trends.R
-└── README.md
-
 
 ### Input data
 - `atlas_citations.csv`  
@@ -46,3 +41,9 @@ Install dependencies in R:
 
 ```r
 install.packages(c("here", "dplyr", "ggplot2", "patchwork", "scales"))
+
+## Start
+
+1. Download both .csv files and the R script.
+2. Make sure all files are stored in the same folder
+3. Run the script
